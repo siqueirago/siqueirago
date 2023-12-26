@@ -2,8 +2,7 @@
 # 🌱 I’m currently learning ...
 - Cursando Análise e Desenvolvimento de Sistemas
    [Unuversidade Estácio de Sá](https://estacio.br/)
-- Versionamento de Código com Git e GitHub
-   [Digital Innovation One](https://www.dio.me/)
+  
 - Formação Android Developer
    [Digital Innovation One](https://www.dio.me/)
 
