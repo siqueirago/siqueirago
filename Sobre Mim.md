@@ -7,13 +7,14 @@ Além dos meus estudos, também sou entusiasta de projetos de código aberto e e
 
 Fora do mundo da tecnologia, gosto de passar meu tempo livre com a minha família praticando esportes ao ar livre, lendo livros sobre ficção científica e explorando novas tecnologias e tendências do setor.
 
+## Formação
 
-
-- Cursando Análise e Desenvolvimento de Sistemas
+- Cursando 3º Semestre: Análise e Desenvolvimento de Sistemas
    [Unuversidade Estácio de Sá](https://estacio.br/)
   
-- Formação Android Developer
-   [Digital Innovation One](https://www.dio.me/)
+## Habilidades
+![siqueiragomes75 (2)](https://github.com/siqueirago/siqueirago/assets/152822615/ac5d2986-3d5c-40c8-bab2-dae47cdcf323)
+
 
 
 
