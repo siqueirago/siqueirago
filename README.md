@@ -3,10 +3,9 @@
 ## Sobre Mim 👨
 - 👨‍💻 Cursando Analise e desenvolvimento de Sistema...
   
-  Atualmente, estou focado 🎯 em aprimorar minhas habilidades de desenvolvimento de software, aprendendo novas linguagens de programação, frameworks e conce           itos de design. Estou sempre em busca
-de novos desafios e oportunidades de aprendizado. 
+  Atualmente, estou focado 🎯 em aprimorar minhas habilidades de desenvolvimento de software, aprendendo novas linguagens de programação, frameworks e conceitos de design. Estou sempre 
+  em busca de novos desafios e oportunidades de aprendizado. 
   
-
 ## Habilidades🛠
 
 - 🚀 Campus Expert DIO...
