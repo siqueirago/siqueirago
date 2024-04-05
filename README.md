@@ -16,11 +16,16 @@
 - 📱 Formação Android Developer
 
 ## Perfil na DIO 🔍🙌
+
 ![siqueiragomes75 (2)](https://github.com/siqueirago/siqueirago/assets/152822615/ac5d2986-3d5c-40c8-bab2-dae47cdcf323)
 
 ## Contate Me 🔍
 [![image](https://github.com/siqueirago/siqueirago/assets/152822615/2db979c0-6428-4123-9de1-f332e089e61a)
 ](www.linkedin.com/in/julio-siqueira-9bb0a7203)
+
+
+
+
 
 <!---
 siqueirago/siqueirago is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
