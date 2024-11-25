@@ -1,12 +1,15 @@
 # Olá, Sou Júlio Siqueira
 
-## Sobre Mim 👨
-- 👨‍💻 Cursando Analise e desenvolvimento de Sistema...
+## 👨 Sobre Mim
+Cursando Analise e desenvolvimento de Sistema...
   
-  Atualmente, estou focado 🎯 em aprimorar minhas habilidades de desenvolvimento de software, aprendendo novas linguagens de programação, frameworks e conceitos de design. Estou sempre 
+  Atualmente, estou focado em aprimorar minhas habilidades de desenvolvimento de software, aprendendo novas linguagens de programação, frameworks e conceitos de design. Estou sempre 
   em busca de novos desafios e oportunidades de aprendizado. 
   
-## Habilidades🛠
+## 🛠  Minhas Habilidades
+![image](https://github.com/user-attachments/assets/5310e665-1262-4e33-9f5f-984f5dbd3c34)
+
+
 
 - 🚀 Campus Expert DIO...
 - ☁  Microsoft Azure AI Fundamentals
