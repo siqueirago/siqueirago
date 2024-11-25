@@ -1,32 +1,29 @@
 # Olá, Sou Júlio Siqueira
 
 ## 👨 Sobre Mim
-Cursando Analise e desenvolvimento de Sistema...
-  
-  Atualmente, estou focado em aprimorar minhas habilidades de desenvolvimento de software, aprendendo novas linguagens de programação, frameworks e conceitos de design. Estou sempre 
-  em busca de novos desafios e oportunidades de aprendizado. 
-  
+Com formação em Análise e Desenvolvimento de Sistemas em conclusão e experiência prática em projetos de desenvolvimento e análise de dados. Participei de diversos bootcamps e cursos na plataforma da DIO, com conhecimentos em Power BI, SQL , Python, Java, Kotiln, e desenvolvimento de circuitos eletrônicos. Atualmente, estou focado em adquirir habilidades avançadas em redes neurais e reconhecimento de imagens, além de estar aprimorando minhas competências em visualização de dados e modelagem dimensional. desenvolver como profissional de tecnologia.
+## 👨‍🎓 Formação acadêmica 
+Análise e Desenvolvimento de Sistemas
+
+Instituição: Estácio de Sá
+
+Status: Em conclusão (2025)
+
 ## 🛠  Minhas Habilidades
 ![image](https://github.com/user-attachments/assets/5310e665-1262-4e33-9f5f-984f5dbd3c34)
+![image](https://github.com/user-attachments/assets/1b0da895-fe8f-4e30-b9ad-378ce034bf83)
+
+## 🏆 Conquistas
+
+![image](https://github.com/user-attachments/assets/2ce57d66-cc99-4d62-8e8c-bd0632711423)
+![image](https://github.com/user-attachments/assets/10e8dd92-f6ec-4985-a69c-6744d38a21cc)
 
 
+## 🔍 Contate-me
 
-- 🚀 Campus Expert DIO...
-- ☁  Microsoft Azure AI Fundamentals
-- 👨‍💻 Formação Fundamentos de Inteligência Artificial
-- 🚀 Formação ChatGPT for Devs...
-- ✈ Formação HTML Web Developer
-- 📱 Formação Android Developer
+✉Email: [siqueiragomes75@gmail.com](mailto:meuemail@gmail.com)
 
-## Perfil na DIO 🔍🙌
-
-![siqueiragomes75 (2)](https://github.com/siqueirago/siqueirago/assets/152822615/ac5d2986-3d5c-40c8-bab2-dae47cdcf323)
-
-## Contate Me 🔍
-[![image](https://github.com/siqueirago/siqueirago/assets/152822615/2db979c0-6428-4123-9de1-f332e089e61a)
-](www.linkedin.com/in/julio-siqueira-9bb0a7203)
-
-
+LinkedIn:https://www.linkedin.com/in/julio-siqueira-9bb0a7203/
 
 
 
