@@ -3,13 +3,11 @@
 ## 👨 Sobre Mim
 Com formação em Análise e Desenvolvimento de Sistemas em conclusão e experiência prática em projetos de desenvolvimento e análise de dados. Participei de diversos bootcamps e cursos na plataforma da DIO, com conhecimentos em Power BI, SQL , Python, Java, Kotiln, e desenvolvimento de circuitos eletrônicos. Atualmente, estou focado em adquirir habilidades avançadas em redes neurais e reconhecimento de imagens, além de estar aprimorando minhas competências em visualização de dados e modelagem dimensional. desenvolver como profissional de tecnologia.
 ## 👨‍🎓 Formação acadêmica 
-Análise e Desenvolvimento de Sistemas
+### Análise e Desenvolvimento de Sistemas
+### Instituição: Estácio de Sá
+### Status: Em conclusão (2025)
 
-Instituição: Estácio de Sá
-
-Status: Em conclusão (2025)
-
-## 🛠  Minhas Habilidades
+## 🛠  Minhas Habilidades / Experiências 
 ![image](https://github.com/user-attachments/assets/5310e665-1262-4e33-9f5f-984f5dbd3c34)
 ![image](https://github.com/user-attachments/assets/1b0da895-fe8f-4e30-b9ad-378ce034bf83)
 
@@ -21,9 +19,8 @@ Status: Em conclusão (2025)
 
 ## 🔍 Contate-me
 
-✉Email: [siqueiragomes75@gmail.com](mailto:meuemail@gmail.com)
-
-LinkedIn:https://www.linkedin.com/in/julio-siqueira-9bb0a7203/
+### ✉ Email: [siqueiragomes75@gmail.com](mailto:meuemail@gmail.com)
+### LinkedIn:https://www.linkedin.com/in/julio-siqueira-9bb0a7203/
 
 
 
