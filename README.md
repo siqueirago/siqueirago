@@ -1,13 +1,10 @@
-# Olá, Sou Júlio Siqueira
+# Júlio Siqueira
 
-## 👨 Sobre Mim
-Com uma formação em Análise e Desenvolvimento de Sistemas, estou preparado para transformar desafios em soluções eficazes, utilizando conhecimentos em HTML, CSS, SQL, Java, Python e Inteligência Artificial. Meu objetivo é crescer profissionalmente e contribuir com projetos que impactem positivamente o setor de TI.
-## 👨‍🎓 Formação acadêmica 
-### Análise e Desenvolvimento de Sistemas
-### Instituição: Estácio de Sá
-### Status: Em conclusão (2025)
+## 👨‍🎓 Sobre Mim
+Atualmente estou me graduando em Análise e Desenvolvimento de Sistemas, tenho experiências em HTML, CSS, SQL, Java, Python e Inteligência Artificial. 
+Experiência em projetos focados no desenvolvimento de interfaces web utilizando HTML e CSS, com ênfase na criação de layouts responsivos, estilização avançada e otimização de páginas para uma experiência de usuário intuitiva e atraente.
 
-## 🛠  Minhas Habilidades / Experiências 
+## 🛠  Minhas Habilidades 
 ![image](https://github.com/user-attachments/assets/5310e665-1262-4e33-9f5f-984f5dbd3c34)
 ![image](https://github.com/user-attachments/assets/1b0da895-fe8f-4e30-b9ad-378ce034bf83)
 
