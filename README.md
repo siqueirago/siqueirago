@@ -1,7 +1,7 @@
 # Olá, Sou Júlio Siqueira
 
 ## 👨 Sobre Mim
-Com formação em Análise e Desenvolvimento de Sistemas em conclusão e experiência prática em projetos de desenvolvimento e análise de dados. Participei de diversos bootcamps e cursos na plataforma da DIO, com conhecimentos em Power BI, SQL , Python, Java, Kotiln, e desenvolvimento de circuitos eletrônicos. Atualmente, estou focado em adquirir habilidades avançadas em redes neurais e reconhecimento de imagens, além de estar aprimorando minhas competências em visualização de dados e modelagem dimensional. desenvolver como profissional de tecnologia.
+Com uma formação em Análise e Desenvolvimento de Sistemas, estou preparado para transformar desafios em soluções eficazes, utilizando conhecimentos em HTML, CSS, SQL, Java, Python e Inteligência Artificial. Meu objetivo é crescer profissionalmente e contribuir com projetos que impactem positivamente o setor de TI.
 ## 👨‍🎓 Formação acadêmica 
 ### Análise e Desenvolvimento de Sistemas
 ### Instituição: Estácio de Sá
