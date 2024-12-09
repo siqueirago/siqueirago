@@ -2,7 +2,7 @@
 
 ## 👨‍🎓 Sobre Mim
 Profissional em transição de carreira para a área de tecnologia, com formação em Análise e Desenvolvimento de Sistemas em conclusão e experiência prática em desafios de projetos. Com conhecimentos em Power BI, SQL , Python, Java, Kotiln, HTML, CSS, JavaScript.
-Atualmente estou focado em adquirir habilidades práticas para mim em desenvolver como profissional de tecnologia.
+Atualmente estou focado em adquirir habilidades práticas que me permitam evoluir como profissional de tecnologia.
 ## 🛠  Minhas Habilidades 
 ![image](https://github.com/user-attachments/assets/5310e665-1262-4e33-9f5f-984f5dbd3c34)
 ![image](https://github.com/user-attachments/assets/1b0da895-fe8f-4e30-b9ad-378ce034bf83)
